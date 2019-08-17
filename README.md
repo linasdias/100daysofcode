@@ -25,8 +25,9 @@ Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
 ## -----------------------------------------------------------------------------------------
 
 ### 2019.2
-Coming soon! | Em breve!
+
 #### Twitter posting
+[Day 1](https://twitter.com/linasdias/status/1162833075014918149)
 
 #### Posting!
 
