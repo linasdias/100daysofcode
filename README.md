@@ -22,7 +22,7 @@ Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
 
 > I want to become a better programmer by improving/training my coding skills on a daily basis.
 
-## --------------------------------------------------------------------------------------------------------------------------------
+## -----------------------------------------------------------------------------------------
 
 ### 2019.2
 Coming soon! | Em breve!
