@@ -27,7 +27,7 @@ Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
 ### 2019.2
 
 #### Twitter posting (in Portuguese)
-[Day 1](https://twitter.com/linasdias/status/1162833075014918149) | [Day 2](https://twitter.com/linasdias/status/1163210492594348033) | [Day 3](https://twitter.com/linasdias/status/1164660437268488193) | [Day 4](https://twitter.com/linasdias/status/1164660437268488193) | [Day 5](https://twitter.com/linasdias/status/1164660437268488193) | [Day 6](https://twitter.com/linasdias/status/1164660437268488193) | [Day 7](https://twitter.com/linasdias/status/1165013818449305601) | [Day 8](https://twitter.com/linasdias/status/1165389211433873409) | [Day 9](https://twitter.com/linasdias/status/1165615707729608704)
+[Day 1](https://twitter.com/linasdias/status/1162833075014918149) | [Day 2](https://twitter.com/linasdias/status/1163210492594348033) | [Day 3](https://twitter.com/linasdias/status/1164660437268488193) | [Day 4](https://twitter.com/linasdias/status/1164660437268488193) | [Day 5](https://twitter.com/linasdias/status/1164660437268488193) | [Day 6](https://twitter.com/linasdias/status/1164660437268488193) | [Day 7](https://twitter.com/linasdias/status/1165013818449305601) | [Day 8](https://twitter.com/linasdias/status/1165389211433873409) | [Day 9](https://twitter.com/linasdias/status/1165615707729608704) | [Day 10](https://twitter.com/linasdias/status/1166144419780841474)
 
 #### Posting!
 
