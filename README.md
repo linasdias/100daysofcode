@@ -23,8 +23,9 @@ Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
 ## -----------------------------------------------------------------------------------------
 
 ### 2020
-(Soon!)
 
+#### Twitter posting (in Portuguese)
+[Day 1](https://twitter.com/linasousad/status/1223728154646319104) | [Day 2](https://twitter.com/linasousad/status/1224106596613197824) | [Day 3](https://twitter.com/linasousad/status/1224800567358377984) | [Day 4](https://twitter.com/linasousad/status/1224800567358377984)
 #### Posting!
 - [My vlog channel](https://www.youtube.com/channel/UCzdN_GOPp7SFm6Yp7L2qvTg) 
 #### Motivation!
