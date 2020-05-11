@@ -34,8 +34,7 @@ Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
 #### Motivation!
 
 > Do better. Improve myself significantly at every thing I submit myself to study. Apply new learning skills to my everyday routine.
-)
 
 ## -----------------------------------------------------------------------------------------
 
-### 2021 - Soon | Em breve!
+### 2021 - Soon! | Em breve!
