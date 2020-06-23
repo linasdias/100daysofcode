@@ -1,7 +1,7 @@
 # 100 Days Of Code
 The challenge to code at least one hour every day for the next 100 days.
 
-Challenge being fulfilled by: [Ana Carolina Dias](https://github.com/linasdias/)
+Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 
 ### Two Main Rules
 1.  Code minimum an hour every day for the next 100 days.
