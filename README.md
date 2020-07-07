@@ -17,8 +17,6 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 
 > I want to become a better programmer by improving/training my coding skills on a daily basis.
 
-## --------------------------------------------------------------------------------------
-
 ### 2020
 
 #### Twitter posting (in Portuguese)
@@ -29,11 +27,8 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 
 > Do better. Improve myself significantly at every thing I submit myself to study. Apply new learning skills to my everyday routine.
 
-## --------------------------------------------------------------------------------------
-
 ### 2021 - Soon! | Em breve!
 
 #### Posting (in Portuguese and English)
 
 #### Motivation!
- 
