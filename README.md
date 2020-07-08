@@ -10,7 +10,7 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 ### 2019
 
 #### Twitter posting (in Portuguese)
-[Repository](https://github.com/linasdias/100daysofcode/blob/master/bts%20memes%20100daysofcode%202019.1.rar)
+[Repository](https://github.com/linasdias/100daysofcode/blob/master/previous%20years/100daysofcode2019.rar)
 :blush: Challenge completed!
 
 #### Motivation!
