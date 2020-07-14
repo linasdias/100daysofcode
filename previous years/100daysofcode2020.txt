@@ -1,6 +1,6 @@
 100 DAYS OF CODE 2020
 DAY 01: 01/02/2020
-DAY 100:
+DAY 100: 11/05/2020
 
 1 - Desde o dia 27, eu tô fazendo um curso de extensão em PLN (usando Python, Javascript etc), e eu tirei o dia de hoje pra organizar minhas anotações. Talvez próxima semana saia o resumo completo no meu studygram /linalinastudy. Segue lá ;)
 2 - Tô quase terminando o que faltava pra terminar essa parte do resumo. O curso acaba dia 7.
