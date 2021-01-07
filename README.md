@@ -27,8 +27,11 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 
 > Do better. Improve myself significantly at every thing I submit myself to study. Apply new learning skills to my everyday routine.
 
-### 2021 - Soon! | Em breve!
+### 2021
 
-#### Posting (in Portuguese and English)
+#### Posting
+[Clique aqui](https://github.com/linasdias/100daysofcode/tree/master/2021/portugues.md) para as postagens em Português do Brasil. [Click here](https://github.com/linasdias/100daysofcode/tree/master/2021/english.md) for English translations.
+
 
 #### Motivation!
+> To compensate lost time.
