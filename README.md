@@ -20,7 +20,7 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 ### 2020
 
 #### Twitter posting (in Portuguese)
-*Edit 070720:* I started the process of deactivating my Twitter account, so the challenge's transcripts are [here](https://github.com/linasdias/100daysofcode/blob/master/100daysofcode2020.txt).
+*Edit 070720/070121:* I <s>started the process of deactivating</s> deactivated my Twitter account at the time, so the challenge's transcripts are [here](https://github.com/linasdias/100daysofcode/blob/master/100daysofcode2020.txt).
 :blush: Challenge completed!
 
 #### Motivation!
