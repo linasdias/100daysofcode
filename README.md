@@ -1,11 +1,11 @@
-# 100 Days Of Code
-The challenge to code at least one hour every day for the next 100 days.
+# 100 Days
+The challenge to be productive at least one hour every day for the next 100 days.
 
 Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 
-### Two Main Rules
+### Two Main Rules for 100 Days of Code
 1.  Code minimum an hour every day for the next 100 days.
-2.  Tweet your progress every day with the #100DaysOfCode hashtag.
+2.  Post your progress every day.
 
 ### 2019
 
