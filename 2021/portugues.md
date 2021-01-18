@@ -11,10 +11,10 @@
 - Dia 06: 12 de janeiro de 2021 - estudando Estruturas de Dados e revendo meu perfil do LinkedIn.
 - Dia 07: 13 de janeiro de 2021 - trabalhando em um relatório de um trabalho em Java. Fim de 15 dias da Intense Core Challenge da Chloe Ting.
 - Dia 08: 14 de janeiro de 2021 - atualizando meus conhecimentos em Redação com o curso de Copywriting da Rock Content.
-- Dia 09:
-- Dia 10:
-- Dia 11:
-- Dia 12:
+- Dia 09: 15 de janeiro de 2021 - eu realmente não fiz muita coisa aqui, admito.
+- Dia 10: 16 de janeiro de 2021 - nem aqui.
+- Dia 11: 17 de janeiro de 2021 - nadinha.
+- Dia 12: 18 de janeiro de 2021 - zero.
 - Dia 13:
 - Dia 14:
 - Dia 15:

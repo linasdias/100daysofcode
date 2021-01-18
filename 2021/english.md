@@ -11,10 +11,10 @@
 - Day 06: Jan 12, 2021 - studying Data Structures/Algorithms and reviewing my LinkedIn profile.
 - Day 07: Jan 13, 2021 - working on a Java project report. Ending my 15-day Chloe Ting Intense Core Challenge.
 - Day 08: Jan 14, 2021 - updating my essay knowledge with Rock Content's Copywriting short course.
-- Day 09:
-- Day 10:
-- Day 11:
-- Day 12:
+- Day 09: Jan 15, 2021 - i haven't actually done stuff here.
+- Day 10: Jan 16, 2021 - nothing.
+- Day 11: Jan 17, 2021 - unproductive.
+- Day 12: Jan 18, 2021 - zero.
 - Day 13:
 - Day 14:
 - Day 15:
