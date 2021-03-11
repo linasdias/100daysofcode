@@ -1,6 +1,6 @@
 # 100 days of productivity 2021 (in English)
 - Start: Jan 07, 2021
-- End: Apr 17, 2021
+- End: now expected for Jun 01, 2021
 
 ## Posting
 - Day 01: Jan 07, 2021 - planning, making the Github folder.
@@ -15,6 +15,21 @@
 - Day 10: Jan 16, 2021 - nothing.
 - Day 11: Jan 17, 2021 - unproductive.
 - Day 12: Jan 18, 2021 - zero.
-- Day 13:
-- Day 14:
-- Day 15:
+- Day 13: Mar 6, 2021 - returned, studied Python.
+- Day 14: Mar 7, 2021 - more Python exercises.
+- Day 15: Mar 8, 2021 - more Python exercises.
+- Day 16: Mar 9, 2021 - more Python exercises.
+- Day 17: Mar 10, 2021 - more Python exercises.
+- Day 18: Mar 11, 2021 - finished 53 Python exercises for one section of Geek University course.
+- Day 19:
+- Day 20:
+- Day 21:
+- Day 22:
+- Day 23:
+- Day 24:
+- Day 25:
+- Day 26:
+- Day 27:
+- Day 28:
+- Day 29:
+- Day 30:

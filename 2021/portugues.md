@@ -1,6 +1,6 @@
 # 100 dias de produtividade 2021 (em Português)
 - Início: 07 de janeiro de 2021
-- Fim: 17 de abril de 2021
+- Fim: agora previsto para 1 de junho de 2021
 
 ## Postagens
 - Dia 01: 07 de janeiro de 2021 - planejamento inicial e criação da pasta no Github.
@@ -15,6 +15,21 @@
 - Dia 10: 16 de janeiro de 2021 - nem aqui.
 - Dia 11: 17 de janeiro de 2021 - nadinha.
 - Dia 12: 18 de janeiro de 2021 - zero.
-- Dia 13:
-- Dia 14:
-- Dia 15:
+- Dia 13: 6 de março de 2021 - retornei, estudei Python.
+- Dia 14: 7 de março de 2021 - exercícios com Python.
+- Dia 15: 8 de março de 2021 - exercícios com Python.
+- Dia 16: 9 de março de 2021 - exercícios com Python.
+- Dia 17: 10 de março de 2021 - exercícios com Python.
+- Dia 18: 11 de março de 2021 - terminei 53 exercícios da seção 4 do curso da Geek University.
+- Dia 19:
+- Dia 20:
+- Dia 21:
+- Dia 22:
+- Dia 23:
+- Dia 24:
+- Dia 25:
+- Dia 26:
+- Dia 27:
+- Dia 28:
+- Dia 29:
+- Dia 30:
