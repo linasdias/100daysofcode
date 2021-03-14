@@ -21,9 +21,9 @@
 - Day 16: Mar 9, 2021 - more Python exercises.
 - Day 17: Mar 10, 2021 - more Python exercises.
 - Day 18: Mar 11, 2021 - finished 53 Python exercises for one section of Geek University course.
-- Day 19:
-- Day 20:
-- Day 21:
+- Day 19: Mar 12, 2021 - break.
+- Day 20: Mar 13, 2021 - break.
+- Day 21: Mar 14, 2021 - replanning.
 - Day 22:
 - Day 23:
 - Day 24:

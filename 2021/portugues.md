@@ -21,9 +21,9 @@
 - Dia 16: 9 de março de 2021 - exercícios com Python.
 - Dia 17: 10 de março de 2021 - exercícios com Python.
 - Dia 18: 11 de março de 2021 - terminei 53 exercícios da seção 4 do curso da Geek University.
-- Dia 19:
-- Dia 20:
-- Dia 21:
+- Dia 19: 12 de março de 2021 - dia de folga.
+- Dia 20: 13 de março de 2021 - dia de folga.
+- Dia 21: 14 de março de 2021 - replanejamento
 - Dia 22:
 - Dia 23:
 - Dia 24:
@@ -31,5 +31,5 @@
 - Dia 26:
 - Dia 27:
 - Dia 28:
-- Dia 29:
+- Dia 29: 22 de março de 2021 - início das aulas na Universidade
 - Dia 30:
