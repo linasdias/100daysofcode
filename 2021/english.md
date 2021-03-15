@@ -24,7 +24,7 @@
 - Day 19: Mar 12, 2021 - break.
 - Day 20: Mar 13, 2021 - break.
 - Day 21: Mar 14, 2021 - replanning.
-- Day 22:
+- Day 22: Mar 15, 2021 - 10 Python exercises.
 - Day 23:
 - Day 24:
 - Day 25:

@@ -24,7 +24,7 @@
 - Dia 19: 12 de março de 2021 - dia de folga.
 - Dia 20: 13 de março de 2021 - dia de folga.
 - Dia 21: 14 de março de 2021 - replanejamento
-- Dia 22:
+- Dia 22: 15 de março de 2021 - 10 exercícios de Python.
 - Dia 23:
 - Dia 24:
 - Dia 25:
