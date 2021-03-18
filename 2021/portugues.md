@@ -25,8 +25,8 @@
 - Dia 20: 13 de março de 2021 - dia de folga.
 - Dia 21: 14 de março de 2021 - replanejamento
 - Dia 22: 15 de março de 2021 - 10 exercícios de Python.
-- Dia 23:
-- Dia 24:
+- Dia 23: 16 de março de 2021 - 15 exercícios de Python.
+- Dia 24: 17 de março de 2021 - 21 exercícios de Python. Completando seção 5 do curso.
 - Dia 25:
 - Dia 26:
 - Dia 27:

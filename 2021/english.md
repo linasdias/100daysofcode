@@ -25,8 +25,8 @@
 - Day 20: Mar 13, 2021 - break.
 - Day 21: Mar 14, 2021 - replanning.
 - Day 22: Mar 15, 2021 - 10 Python exercises.
-- Day 23:
-- Day 24:
+- Day 23: Mar 16, 2021 - 15 Python exercises.
+- Day 24: Mar 17, 2021 - 21 Python exercises. Completing one more section on Geek University.
 - Day 25:
 - Day 26:
 - Day 27:
