@@ -27,9 +27,29 @@
 - Day 22: Mar 15, 2021 - 10 Python exercises.
 - Day 23: Mar 16, 2021 - 15 Python exercises.
 - Day 24: Mar 17, 2021 - 21 Python exercises. Completing one more section on Geek University.
-- Day 25:
-- Day 26:
-- Day 27:
-- Day 28:
-- Day 29:
-- Day 30:
+- Day 25: Mar 18, 2021 - new section + 20 exercises
+- Day 26: Mar 19, 2021 - (nothing)
+- Day 27: Mar 20, 2021 - (nothing)
+- Day 28: Mar 21, 2021 - (nothing)
+- Day 29: Mar 22, 2021 - first day of classes at uni + hackerrank d0 + 20 exercises
+- Day 30: Mar 23, 2021 - 20 exercises + hackerrank d1
+- Day 31: Mar 24, 2021 - 10 exercises
+- Day 32: Mar 25, 2021 - 10 exercises
+- Day 33: Mar 26, 2021 - end of another section
+- Day 34: Mar 27, 2021 - (not registered)
+- Day 35: Mar 28, 2021 - (not registered)
+- Day 36: Mar 29, 2021 - classes in video
+- Day 37: Mar 30, 2021 - (holiday)
+- Day 38: Mar 31, 2021 - (holiday)
+- Day 39: Apr 01, 2021 - (holiday)
+- Day 40: Apr 02, 2021 - (holiday)
+- Day 41: Apr 03, 2021 - (holiday)
+- Day 42: Apr 04, 2021 - (holiday)
+- Day 43: Apr 05, 2021 - classes in video
+- Day 44:
+- Day 45:
+- Day 46:
+- Day 47:
+- Day 48:
+- Day 49:
+- Day 50:

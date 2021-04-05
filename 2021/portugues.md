@@ -27,9 +27,29 @@
 - Dia 22: 15 de março de 2021 - 10 exercícios de Python.
 - Dia 23: 16 de março de 2021 - 15 exercícios de Python.
 - Dia 24: 17 de março de 2021 - 21 exercícios de Python. Completando seção 5 do curso.
-- Dia 25:
-- Dia 26:
-- Dia 27:
-- Dia 28:
-- Dia 29: 22 de março de 2021 - início das aulas na Universidade
-- Dia 30:
+- Dia 25: 18 de março de 2021 - nova seção + 20 exercícios
+- Dia 26: 19 de março de 2021 - (nada)
+- Dia 27: 20 de março de 2021 - (nada)
+- Dia 28: 21 de março de 2021 - (nada)
+- Dia 29: 22 de março de 2021 - início das aulas na Universidade + hackerrank d0 + 20 exercícios
+- Dia 30: 23 de março de 2021 - 20 exercícios + hackerrank d1
+- Dia 31: 24 de março de 2021 - 10 exercícios
+- Dia 32: 25 de março de 2021 - 10 exercícios
+- Dia 33: 26 de março de 2021 - fim de outra seção
+- Dia 34: 27 de março de 2021 - (não registrado)
+- Dia 35: 28 de março de 2021 - (não registrado)
+- Dia 36: 29 de março de 2021 - videoaulas
+- Dia 37: 30 de março de 2021 - (feriado)
+- Dia 38: 31 de março de 2021 - (feriado)
+- Dia 39: 01 de abril de 2021 - (feriado)
+- Dia 40: 02 de abril de 2021 - (feriado)
+- Dia 41: 03 de abril de 2021 - (feriado)
+- Dia 42: 04 de abril de 2021 - (feriado)
+- Dia 43: 05 de abril de 2021 - videoaulas
+- Dia 44:
+- Dia 45:
+- Dia 46:
+- Dia 47:
+- Dia 48:
+- Dia 49:
+- Dia 50:
