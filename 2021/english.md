@@ -38,16 +38,16 @@
 - Day 33: Mar 26, 2021 - end of another section
 - Day 34: Mar 27, 2021 - (not registered)
 - Day 35: Mar 28, 2021 - (not registered)
-- Day 36: Mar 29, 2021 - classes in video
+- Day 36: Mar 29, 2021 - video lessons
 - Day 37: Mar 30, 2021 - (holiday)
 - Day 38: Mar 31, 2021 - (holiday)
 - Day 39: Apr 01, 2021 - (holiday)
 - Day 40: Apr 02, 2021 - (holiday)
 - Day 41: Apr 03, 2021 - (holiday)
 - Day 42: Apr 04, 2021 - (holiday)
-- Day 43: Apr 05, 2021 - classes in video
-- Day 44:
-- Day 45:
+- Day 43: Apr 05, 2021 - video lessons
+- Day 44: Apr 06, 2021 - video lessons
+- Day 45: Apr 07, 2021 - video lessons
 - Day 46:
 - Day 47:
 - Day 48:

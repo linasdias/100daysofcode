@@ -46,8 +46,8 @@
 - Dia 41: 03 de abril de 2021 - (feriado)
 - Dia 42: 04 de abril de 2021 - (feriado)
 - Dia 43: 05 de abril de 2021 - videoaulas
-- Dia 44:
-- Dia 45:
+- Dia 44: 06 de abril de 2021 - videoaulas
+- Dia 45: 07 de abril de 2021 - videoaulas
 - Dia 46:
 - Dia 47:
 - Dia 48:
