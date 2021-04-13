@@ -48,8 +48,18 @@
 - Dia 43: 05 de abril de 2021 - videoaulas
 - Dia 44: 06 de abril de 2021 - videoaulas
 - Dia 45: 07 de abril de 2021 - videoaulas
-- Dia 46:
-- Dia 47:
-- Dia 48:
-- Dia 49:
-- Dia 50:
+- Dia 46: 08 de abril de 2021 - videoaulas
+- Dia 47: 09 de abril de 2021 - videoaulas
+- Dia 48: 10 de abril de 2021 - videoaulas
+- Dia 49: 11 de abril de 2021 - videoaulas
+- Dia 50: 12 de abril de 2021 - videoaulas
+- Dia 51: 13 de abril de 2021 - videoaulas
+- Dia 52:
+- Dia 53:
+- Dia 54:
+- Dia 55:
+- Dia 56:
+- Dia 57:
+- Dia 58:
+- Dia 59:
+- Dia 60:

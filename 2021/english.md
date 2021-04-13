@@ -48,8 +48,18 @@
 - Day 43: Apr 05, 2021 - video lessons
 - Day 44: Apr 06, 2021 - video lessons
 - Day 45: Apr 07, 2021 - video lessons
-- Day 46:
-- Day 47:
-- Day 48:
-- Day 49:
-- Day 50:
+- Day 46: Apr 08, 2021 - video lessons
+- Day 47: Apr 09, 2021 - video lessons
+- Day 48: Apr 10, 2021 - video lessons
+- Day 49: Apr 11, 2021 - video lessons
+- Day 50: Apr 12, 2021 - video lessons
+- Day 51: Apr 13, 2021 - video lessons
+- Day 52:
+- Day 53:
+- Day 54:
+- Day 55:
+- Day 56:
+- Day 57:
+- Day 58:
+- Day 59:
+- Day 60:
