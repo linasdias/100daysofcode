@@ -54,12 +54,22 @@
 - Dia 49: 11 de abril de 2021 - videoaulas
 - Dia 50: 12 de abril de 2021 - videoaulas
 - Dia 51: 13 de abril de 2021 - videoaulas
-- Dia 52:
-- Dia 53:
-- Dia 54:
-- Dia 55:
-- Dia 56:
-- Dia 57:
-- Dia 58:
-- Dia 59:
-- Dia 60:
+- Dia 52: 14 de abril de 2021 - (ler dia 64)
+- Dia 53: 15 de abril de 2021 - (ler dia 64)
+- Dia 54: 16 de abril de 2021 - (ler dia 64)
+- Dia 55: 17 de abril de 2021 - (ler dia 64)
+- Dia 56: 18 de abril de 2021 - (ler dia 64)
+- Dia 57: 19 de abril de 2021 - (ler dia 64)
+- Dia 58: 20 de abril de 2021 - (ler dia 64)
+- Dia 59: 21 de abril de 2021 - (ler dia 64)
+- Dia 60: 22 de abril de 2021 - (ler dia 64)
+- Dia 61: 23 de abril de 2021 - folga do meu aniversário
+- Dia 62: 24 de abril de 2021 - (ler dia 64)
+- Dia 63: 25 de abril de 2021 - (ler dia 64)
+- Dia 64: 26 de abril de 2021 - esse tempo todo eu citei apenas Python e as videoaulas, mas estive trabalhando na minha streak do Duolingo, nas atividades da universidade e sendo produtiva sem documentar.
+- Dia 65: 27 de abril de 2021 -
+- Dia 66: 28 de abril de 2021 -
+- Dia 67: 29 de abril de 2021 -
+- Dia 68: 30 de abril de 2021 -
+- Dia 69: 1 de maio de 2021 -
+- Dia 70: 2 de maio de 2021 -

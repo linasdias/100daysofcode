@@ -54,12 +54,22 @@
 - Day 49: Apr 11, 2021 - video lessons
 - Day 50: Apr 12, 2021 - video lessons
 - Day 51: Apr 13, 2021 - video lessons
-- Day 52:
-- Day 53:
-- Day 54:
-- Day 55:
-- Day 56:
-- Day 57:
-- Day 58:
-- Day 59:
-- Day 60:
+- Day 52: Apr 14, 2021 - (read Day 64)
+- Day 53: Apr 15, 2021 - (read Day 64)
+- Day 54: Apr 16, 2021 - (read Day 64)
+- Day 55: Apr 17, 2021 - (read Day 64)
+- Day 56: Apr 18, 2021 - (read Day 64)
+- Day 57: Apr 19, 2021 - (read Day 64)
+- Day 58: Apr 20, 2021 - (read Day 64)
+- Day 59: Apr 21, 2021 - (read Day 64)
+- Day 60: Apr 22, 2021 - (read Day 64)
+- Day 61: Apr 23, 2021 - birthday rest
+- Day 62: Apr 24, 2021 - (read Day 64)
+- Day 63: Apr 25, 2021 - (read Day 64)
+- Day 64: Apr 26, 2021 - all this time I just said "Python video lessons" and left, but I forgot to document my Duolingo streak, university stuff and other productivity.
+- Day 65: Apr 27, 2021
+- Day 66: Apr 28, 2021
+- Day 67: Apr 29, 2021
+- Day 68: Apr 30, 2021
+- Day 69: May 1, 2021
+- Day 70: May 2, 2021
