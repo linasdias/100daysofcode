@@ -67,9 +67,19 @@
 - Dia 62: 24 de abril de 2021 - (ler dia 64)
 - Dia 63: 25 de abril de 2021 - (ler dia 64)
 - Dia 64: 26 de abril de 2021 - esse tempo todo eu citei apenas Python e as videoaulas, mas estive trabalhando na minha streak do Duolingo, nas atividades da universidade e sendo produtiva sem documentar.
-- Dia 65: 27 de abril de 2021 -
-- Dia 66: 28 de abril de 2021 -
-- Dia 67: 29 de abril de 2021 -
-- Dia 68: 30 de abril de 2021 -
-- Dia 69: 1 de maio de 2021 -
-- Dia 70: 2 de maio de 2021 -
+- Dia 65: 27 de abril de 2021 - estudando para a universidade.
+- Dia 66: 28 de abril de 2021 - estudando para a universidade.
+- Dia 67: 29 de abril de 2021 - estudando para a universidade.
+- Dia 68: 30 de abril de 2021 - estudando para a universidade.
+- Dia 69: 1 de maio de 2021 - estudando para a universidade.
+- Dia 70: 2 de maio de 2021 - estudando para a universidade.
+- Dia 71: 3 de maio de 2021 - estudando para a universidade.
+- Dia 72: 4 de maio de 2021 - estudando para a universidade.
+- Dia 73: 5 de maio de 2021 - estudando para a universidade.
+- Dia 74: 6 de maio de 2021 - estudando para a universidade.
+- Dia 75: 7 de maio de 2021 - estudando para a universidade.
+- Dia 76: 8 de maio de 2021 - estudando para a universidade.
+- Dia 77: 9 de maio de 2021 - estudando para a universidade.
+- Dia 78: 10 de maio de 2021 - estudando para a universidade.
+- Dia 79: 11 de maio de 2021 - estudando para a universidade.
+- Dia 80:

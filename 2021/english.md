@@ -67,9 +67,19 @@
 - Day 62: Apr 24, 2021 - (read Day 64)
 - Day 63: Apr 25, 2021 - (read Day 64)
 - Day 64: Apr 26, 2021 - all this time I just said "Python video lessons" and left, but I forgot to document my Duolingo streak, university stuff and other productivity.
-- Day 65: Apr 27, 2021
-- Day 66: Apr 28, 2021
-- Day 67: Apr 29, 2021
-- Day 68: Apr 30, 2021
-- Day 69: May 1, 2021
-- Day 70: May 2, 2021
+- Day 65: Apr 27, 2021 - studying for university.
+- Day 66: Apr 28, 2021 - studying for university.
+- Day 67: Apr 29, 2021 - studying for university.
+- Day 68: Apr 30, 2021 - studying for university.
+- Day 69: May 1, 2021 - studying for university.
+- Day 70: May 2, 2021 - studying for university.
+- Day 71: May 3, 2021 - studying for university.
+- Day 72: May 4, 2021 - studying for university.
+- Day 73: May 5, 2021 - studying for university.
+- Day 74: May 6, 2021 - studying for university.
+- Day 75: May 7, 2021 - studying for university.
+- Day 76: May 8, 2021 - studying for university.
+- Day 77: May 9, 2021 - studying for university.
+- Day 78: May 10, 2021 - studying for university.
+- Day 79: May 11, 2021 - studying for university.
+- Day 80: May 12, 2021
