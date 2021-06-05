@@ -37,6 +37,6 @@ Challenge being fulfilled by: [Lina Dias](https://github.com/linasdias/)
 > To compensate lost time.
 
 
-### 2022 (100 Days of Productivity)
+### 2022 (100 Days of Code & Productivity)
 
 Coming soon.
