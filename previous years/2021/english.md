@@ -15,10 +15,11 @@
 - Day 10: Jan 16, 2021 - nothing.
 - Day 11: Jan 17, 2021 - unproductive.
 - Day 12: Jan 18, 2021 - zero.
-- Day 13: Mar 6, 2021 - returned, studied Python.
-- Day 14: Mar 7, 2021 - more Python exercises.
-- Day 15: Mar 8, 2021 - more Python exercises.
-- Day 16: Mar 9, 2021 - more Python exercises.
+
+- Day 13: Mar 06, 2021 - returned, studied Python.
+- Day 14: Mar 07, 2021 - more Python exercises.
+- Day 15: Mar 08, 2021 - more Python exercises.
+- Day 16: Mar 09, 2021 - more Python exercises.
 - Day 17: Mar 10, 2021 - more Python exercises.
 - Day 18: Mar 11, 2021 - finished 53 Python exercises for one section of Geek University course.
 - Day 19: Mar 12, 2021 - break.
@@ -71,15 +72,37 @@
 - Day 66: Apr 28, 2021 - studying for university.
 - Day 67: Apr 29, 2021 - studying for university.
 - Day 68: Apr 30, 2021 - studying for university.
-- Day 69: May 1, 2021 - studying for university.
-- Day 70: May 2, 2021 - studying for university.
-- Day 71: May 3, 2021 - studying for university.
-- Day 72: May 4, 2021 - studying for university.
-- Day 73: May 5, 2021 - studying for university.
-- Day 74: May 6, 2021 - studying for university.
-- Day 75: May 7, 2021 - studying for university.
-- Day 76: May 8, 2021 - studying for university.
-- Day 77: May 9, 2021 - studying for university.
+- Day 69: May 01, 2021 - studying for university.
+- Day 70: May 02, 2021 - studying for university.
+- Day 71: May 03, 2021 - studying for university.
+- Day 72: May 04, 2021 - studying for university.
+- Day 73: May 05, 2021 - studying for university.
+- Day 74: May 06, 2021 - studying for university.
+- Day 75: May 07, 2021 - studying for university.
+- Day 76: May 08, 2021 - studying for university.
+- Day 77: May 09, 2021 - studying for university.
 - Day 78: May 10, 2021 - studying for university.
 - Day 79: May 11, 2021 - studying for university.
-- Day 80: May 12, 2021
+- Day 80: May 12, 2021 - studying for university.
+- Day 81: May 13, 2021 - studying for university.
+- Day 82: May 14, 2021 - studying for university.
+- Day 83: May 15, 2021 - CSJ application.
+- Day 84: May 16, 2021 - CSJ application.
+- Day 85: May 17, 2021 - studying for university.
+- Day 86: May 18, 2021 - studying for university.
+- Day 87: May 19, 2021 - studying for university.
+- Day 88: May 20, 2021 - studying for university.
+- Day 89: May 21, 2021 - studying for university.
+- Day 90: May 22, 2021 - studying for university.
+- Day 91: May 23, 2021 - studying for university.
+- Day 92: May 24, 2021 - studying for university.
+- Day 93: May 25, 2021 - studying for university.
+- Day 94: May 26, 2021 - studying for university.
+- Day 95: May 27, 2021 - studying for university.
+- Day 96: May 28, 2021 - solving tests.
+- Day 97: May 29, 2021 - solving tests.
+- Day 98: May 30, 2021 - solving tests.
+- Day 99: May 31, 2021 - studying for university.
+- Day 100: Jun 01, 2021 - studying for university.
+
+Extra: Day X: Jun 05, 2021 - remembered to update the thread.

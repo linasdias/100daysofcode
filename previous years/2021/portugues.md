@@ -82,4 +82,26 @@
 - Dia 77: 9 de maio de 2021 - estudando para a universidade.
 - Dia 78: 10 de maio de 2021 - estudando para a universidade.
 - Dia 79: 11 de maio de 2021 - estudando para a universidade.
-- Dia 80:
+- Dia 80: 12 de maio de 2021 - estudando para a universidade.
+- Dia 81: 13 de maio de 2021 - estudando para a universidade.
+- Dia 82: 14 de maio de 2021 - estudando para a universidade.
+- Dia 83: 15 de maio de 2021 - inscrição CSJ.
+- Dia 84: 16 de maio de 2021 - inscrição CSJ.
+- Dia 85: 17 de maio de 2021 - estudando para a universidade.
+- Dia 86: 18 de maio de 2021 - estudando para a universidade.
+- Dia 87: 19 de maio de 2021 - estudando para a universidade.
+- Dia 88: 20 de maio de 2021 - estudando para a universidade.
+- Dia 89: 21 de maio de 2021 - estudando para a universidade.
+- Dia 90: 22 de maio de 2021 - estudando para a universidade.
+- Dia 91: 23 de maio de 2021 - estudando para a universidade.
+- Dia 92: 24 de maio de 2021 - estudando para a universidade.
+- Dia 93: 25 de maio de 2021 - estudando para a universidade.
+- Dia 94: 26 de maio de 2021 - estudando para a universidade.
+- Dia 95: 27 de maio de 2021 - estudando para a universidade.
+- Dia 96: 28 de maio de 2021 - resolvendo prova.
+- Dia 97: 29 de maio de 2021 - resolvendo prova.
+- Dia 98: 30 de maio de 2021 - resolvendo prova.
+- Dia 99: 31 de maio de 2021 - estudando para a universidade.
+- Dia 100: 1 de junho de 2021 - estudando para a universidade.
+
+Extra: Dia X: 5 de junho de 2021 - lembrei de atualizar o log.
